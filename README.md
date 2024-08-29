@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/replit-F26207.svg?&style=flat-squar&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-squar&logo=figma&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=flat-squar&logo=eclipseide&logoColor=white"/>-->
   <!--<img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=flat-squar&logo=androidstudio&logoColor=white"/>-->
 </p>
